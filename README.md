@@ -54,7 +54,7 @@ The Charity Fundraising Smart Contract is a decentralized platform for managing 
 5. **Enhanced Security**: Integrate more advanced security measures to protect against malicious attacks and fraud.
 
 ## Contract Tnformation
--**contract_address:** 0x1a281ed19a32aa68497bc3405f5b5393bd52e882
+**contract_address:** 0x1a281ed19a32aa68497bc3405f5b5393bd52e882
 -**Networks:** Edu-chain
 -
 ![image](https://github.com/user-attachments/assets/439c011b-2248-4a15-a8a5-0209e130d29b)
